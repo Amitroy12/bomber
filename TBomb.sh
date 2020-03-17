@@ -14,7 +14,7 @@ echo .
 apt install figlet toilet python curl -y
 apt install python3-pip
 pip install -r requirements.txt
-echo This Script Was Made By SpeedX >update.speedx
+echo This Script Was Made By SpeedX >amitkumar9622770120aaaa@gmail.com
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -30,7 +30,7 @@ toilet -f mono12 -F border SpeedX
 echo -e "\e[4;34m This Bomber Was Created By SpeedX \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/amit eoy \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
